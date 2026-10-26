@@ -1,7 +1,7 @@
 # Onda lenta — manual del canal
 
 Versión del manual: 26 oct 2026. Fuente: proyecto de Claude «CANAL ONDA LENTA» y decisiones de Daihana.
-Faltan por importar las listas de reproducción restantes (§9 del manual original llegó cortado).
+Manual íntegro (con el guion de ejemplo del vídeo 11, las instrucciones del proyecto y el estado de los vídeos): `manual-completo.md`.
 
 ## 1. Identidad
 - Handle `@onda_lenta` · ID `UCzIrxZj7j6ySaNSTNnn6dDQ` · País España.
@@ -75,4 +75,22 @@ Estructura vigente: **HOOK → B1 → B2 → B3 → RE-HOOK → B4 → B5 → B6
 ## 10. Listas de reproducción
 - «Tu cerebro, hora a hora»: vídeos «hora a hora» (4 ansiedad, 9 cafeína) y largos recientes por defecto.
 - «Lo que la ciencia sabe de tu cerebro»: fenómenos y estudios (vídeos 3 a 8).
-- Pendiente de importar: resto de listas (p. ej. Shorts).
+- «Fenómenos mentales en un minuto»: Shorts.
+
+## 11. Ajustes de subida (YouTube Studio)
+- Visibilidad: **Privado al subir → Programar** (martes o viernes 19:00 hora de España).
+- Datos desde `video-NN/datos-de-subida.md`: título, descripción (resumen, capítulos, aviso de divulgación, fuentes, «Vídeos de stock: Pexels. Música: propia.», hashtags), 15–20 etiquetas que terminan en «onda lenta», comentario fijado y ajustes.
+- No es para niños · sin restricción de edad · **contenido alterado o sintético = No** (criterio fijo) · sin promoción de pago · categoría **Educación**.
+- Idioma del vídeo: **Español (Latinoamérica)** (decisión 26 oct 2026). Los anteriores se subieron como «Español (España)»: pendiente de cambiar, empezando por el vídeo 9.
+- Sin menciones a IA en títulos ni descripciones; solo «Algunas imágenes son ilustraciones de ambiente generadas con IA» cuando las hay.
+- La miniatura la sube Daihana a mano. El comentario fijado se publica cuando el vídeo ya es público: una pregunta breve con datos auditados.
+- Capítulos: uno por bloque. Pantalla final: siguiente/anterior + suscripción. Subtítulos automáticos revisados (nombres propios). A los 7 días: CTR y retención a 30 s; A/B de miniatura si el CTR es bajo.
+
+## 12. Flujo de un vídeo
+Tema → guion v1 → auditoría previa (2 auditores) → guion v2 y visto bueno → datos de subida y documento de locución → voz (aviso de coste) → lista de stock → montaje → comprobación y auditoría posterior (+ delta) → entrega al PC en partes + `.bat` → subida privada, programación y lista → comentario fijado y 3 Shorts → registro en el proyecto y en Sheets.
+
+## 13. Trato con Daihana
+Avisar del coste antes de gastar. Feedback directo citando frases concretas. No poner en el chat los pasos intermedios: avisar solo cuando algo está terminado o hace falta una decisión. Ella no compara cifras con las fuentes: lo hacen los auditores y recibe un informe en español sin jerga.
+
+## 14. Estado de los vídeos (26 oct 2026)
+Vídeos 1–8 públicos; el 9 (cafeína, hora a hora) programado el martes 27 oct 19:00; el 10 (duelo) montado para el viernes 30 oct; el 11 (Para qué dormimos) montado, siguiente martes.
