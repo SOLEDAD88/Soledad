@@ -27,6 +27,6 @@ Cada canal tiene su propio formato, voz y reglas. No mezclar manuales: antes de 
 - Cuentas: el canal Before You Sail está en `daihanar014@gmail.com`; la cuenta personal `soleday9@gmail.com` tiene otro canal («Sole Rivas»).
 
 ## Pendiente
-- Penny Drops: actualizar banner, descripción y palabras clave (aún dicen «like you're 6»); confirmar handle y listas en Studio.
+- Penny Drops: aplicar en Studio el banner v2, la descripción y las palabras clave de `channels/penny-drops/textos-studio-canal.txt` (en Studio siguen con «like you're 6»). Handle (@PennyDropsTV) y listas ya confirmados.
 - Retail Requiem: registrar parámetros de la voz «Adrian», hexadecimales de color y descripción del canal.
 - Onda lenta: cambiar el idioma de los vídeos anteriores a «Español (Latinoamérica)».

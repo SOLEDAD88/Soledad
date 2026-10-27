@@ -1,0 +1,39 @@
+PENNY DROPS TV - TEXTOS PARA YOUTUBE STUDIO (27 oct 2026)
+Cambian "like you're 6" por "explained simply" y el calendario por domingo/martes/jueves.
+
+=====================================================================
+1) DESCRIPCION DEL CANAL
+Studio > Personalizacion > Informacion basica > Descripcion
+(copiar desde la linea de abajo hasta la linea "FIN")
+=====================================================================
+Hi, I'm Penny! 👋
+I take the biggest money stories in the world — billion-dollar scams, market crashes, fraudsters and the companies behind them — and explain them simply.
+
+Every video ends with Penny's Playbook: one simple lesson you can use to protect your own money.
+
+A new story every Sunday, Tuesday and Thursday. Grab a snack, the penny is about to drop. 🪙
+
+Facts come from official sources. Any dramatized scene is labeled on screen. Drawings are illustrations and the voices are synthetic. Nothing on this channel is financial advice.
+FIN
+
+=====================================================================
+2) PALABRAS CLAVE DEL CANAL
+Studio > Configuracion > Canal > Informacion basica > Palabras clave
+(una sola linea, separadas por comas)
+=====================================================================
+finance explained, money stories, financial scandals, scams explained, explained simply, stock market crash, fraud documentary, animated finance, business stories, economics for beginners, Wall Street, billionaires, bank failures, Penny Drops TV
+
+(Cambio respecto a la lista anterior: "explained like you're 6" -> "explained simply". Anadido: "bank failures", por Wells Fargo, LTCM y SVB.)
+
+=====================================================================
+3) BANNER
+Studio > Personalizacion > Marca > Imagen de banner > Cambiar > subir
+=====================================================================
+Archivo: penny_banner_v2.jpg  (2560x1440, la unica diferencia con el anterior: el lema rojo ahora dice "Big money stories, explained simply")
+
+=====================================================================
+4) CONFIRMADO EL 27 oct 2026 EN LA PAGINA PUBLICA DEL CANAL
+=====================================================================
+- Handle: @PennyDropsTV (existe y es el del canal)
+- Listas publicas: "Money Stories Right Now" (6 videos), "Billion-Dollar Scams" (7 videos) y "Crashes & Crises" (1 video: Enron).
+- Descripcion, palabras clave y banner: siguen con el texto antiguo ("like you're six", "New story every week").

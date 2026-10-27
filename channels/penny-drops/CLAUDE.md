@@ -1,9 +1,9 @@
 # Penny Drops TV — manual resumido
 
-Detalle completo: `manual-completo.md` (v1, 26 oct 2026; incluye voces, catálogo de vídeos y un guion de ejemplo en los anexos). Vídeos en **inglés (EE. UU.)**; todo para Daihana, en español.
+Detalle completo: `manual-completo.md` (v1.1, 27 oct 2026; incluye voces, catálogo de vídeos y un guion de ejemplo en los anexos). Vídeos en **inglés (EE. UU.)**; todo para Daihana, en español.
 
 ## Identidad
-- Nombre siempre **Penny Drops TV**. ID `UCZoVpT4I5NZMt2jlEdIk43A`. Handle por confirmar en Studio.
+- Nombre siempre **Penny Drops TV**. ID `UCZoVpT4I5NZMt2jlEdIk43A`. Handle **@PennyDropsTV** (confirmado el 27 oct 2026).
 - Tema: grandes historias de dinero reales (estafas, quiebras, crisis, burbujas, magnates), paso a paso y en lenguaje sencillo.
 - Fórmula vigente desde el 3 oct 2026: **«(Explained Simply)»** (no «like you're 6»). La frase de marca se dice **una sola vez**, en la apertura.
 - Narradora **Penny** (chica con rizos cobrizos y peto verde). Estilo: palitos dibujados, faceless, sin imágenes reales.
@@ -50,6 +50,10 @@ Detalle completo: `manual-completo.md` (v1, 26 oct 2026; incluye voces, catálog
 - Miniatura 1280×720 JPG <2 MB: cifra roja grande, línea blanca, recuadro negro recto con el caso y fecha. Se entrega como JPG individuales, uno por mensaje.
 - Subida: archivo 1920×1080 (nunca la versión ligera), `.srt` propio, «No» en contenido sintético, no es para niños, comentarios con retención de los inapropiados. Paquete `Penny_NN_<Caso>_YOUTUBE.md` con cada vídeo.
 - Entrega por partes ≤25 MB, cada una en su mensaje «Parte N de M», con `UNIR_VIDEO.bat`. Siempre decir la duración.
+
+## Listas y textos de Studio (27 oct 2026)
+- Listas públicas: «Money Stories Right Now» (6), «Billion-Dollar Scams» (7), «Crashes & Crises» (1). «How They Got Rich» y «Penny's Playbook» no existen. Criterio: vídeos 5–8 → Billion-Dollar Scams; del 10 en adelante → Money Stories Right Now.
+- Descripción del canal, palabras clave y banner v2 (`banner-v2-vista-previa.jpg` es solo una vista previa de 2000×1125; el archivo bueno es `penny_banner_v2.jpg`, 2560×1440) están preparados en `textos-studio-canal.txt`. **Sin aplicar aún en Studio**: siguen con «like you're 6».
 
 ## Trato con Daihana
 Trabajar en silencio y un único mensaje final corto en español. Guiones siempre como archivo. Aprobación de texto y coste antes de gastar créditos.

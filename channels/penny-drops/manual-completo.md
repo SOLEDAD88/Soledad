@@ -1,6 +1,7 @@
 # Manual del canal · Penny Drops TV
 
-**Versión 1 · 26 de octubre de 2026 · dueña del canal: Daihana**
+**Versión 1.1 · 27 de octubre de 2026 · dueña del canal: Daihana**
+*Cambios de la 1.1: handle y listas de reproducción confirmados en la página pública del canal; textos nuevos de descripción y palabras clave y banner corregido preparados (sin aplicar aún en Studio). Secciones 1, 8.3, 15, 18 y 19.*
 Para Daihana y para cualquier sesión de Claude (o persona) que trabaje en el canal. Reúne, en un solo sitio, todo lo que está repartido en los documentos del Proyecto «CANAL PENNY EN INGLES», en el código de montaje y en los paquetes de YouTube de los vídeos ya entregados.
 
 ## Cómo leer este manual
@@ -39,7 +40,7 @@ Para Daihana y para cualquier sesión de Claude (o persona) que trabaje en el ca
 | Dato | Valor |
 |---|---|
 | Nombre | **Penny Drops TV** (siempre con «TV»: ya existen canales de finanzas llamados «Penny Drops» y «PennyDrops») |
-| Handle | @PennyDropsTV era el sugerido en el kit (alternativas: @PennyDropsTVOfficial, @PennyDropsExplained). **No consta cuál quedó**; comprobar en Studio |
+| Handle | **@PennyDropsTV** (confirmado el 27 oct 2026 en la página pública del canal) |
 | ID del canal | UCZoVpT4I5NZMt2jlEdIk43A (el que usa Nexlev) |
 | Idioma de los vídeos | **Inglés (EE. UU.)** |
 | Tema | Grandes historias de dinero: estafas, quiebras, crisis, burbujas y magnates reales, contadas paso a paso y con lenguaje sencillo |
@@ -225,7 +226,7 @@ Sección «Fuentes» con la URL oficial de cada cifra, fecha y cita. Nada queda 
 - **Sin** texto legible, marcas, logotipos, caricaturas de personas reales ni contenido sensible dentro del dibujo. Edificios genéricos (BANK BRANCH: ladrillo, toldo verde azulado liso, sin letrero).
 - **Banco de reutilización** (para gastar menos créditos sin bajar calidad): reacciones de Penny, multitudes, juzgado, cárcel, mazo, gráficos y las imágenes de CTA (RSUB, RCOM, R51…). Antes de generar, se mira si ya existe. Los gráficos de cifras, gráficas, mapas, calendarios y líneas de tiempo pueden dibujarse con código en el mismo estilo.
 - **Revisión:** tras cada tanda, hoja de contacto y revisión inmediata (deriva de estilo, texto ilegible, personajes distintos, marcas, caricaturas) antes de lanzar la siguiente. Si falla una imagen, se regenera solo esa, avisando del coste.
-- **Identidad visual del canal:** logo (Penny mirando una moneda que cae, sobre círculo verde claro), banner 2560×1440 (crema, título «Penny Drops TV» en verde Permanent Marker, lema en rojo, Penny con monedas, iconos de hucha, claqueta, yate, billetes y lupa), marca de agua de 150×150 transparente.
+- **Identidad visual del canal:** logo (Penny mirando una moneda que cae, sobre círculo verde claro), banner 2560×1440 (crema, título «Penny Drops TV» en verde Permanent Marker, lema en rojo («Big money stories, explained simply» en la versión 2 del 27 oct, `penny_banner_v2.jpg`; la versión que sigue publicada dice «explained like you're 6»), Penny con monedas, iconos de hucha, claqueta, yate, billetes y lupa), marca de agua de 150×150 transparente.
 
 ### 8.4 Movimiento y rótulos
 
@@ -340,9 +341,17 @@ Fuente: `claude/MINIATURAS-PENNY.md` y los paquetes de YouTube.
 
 ## 15. Listas de reproducción
 
-- **«Money Stories Right Now»** — lista de temas actuales (Top 5 CEOs, Lehman, GameStop, Wells Fargo y siguientes, como SVB). Decisión del 3 oct: Wirecard y Theranos entran también, sin rehacerlos.
-- **«Billion-Dollar Scams»** — la lista de estafas con la que se planeó y se asignaron los vídeos 5–8 (Jho Low, Enron, FTX, Theranos, Wirecard, Terra/Luna, Archegos…).
-- El kit del 25 sep proponía cuatro listas: Billion-Dollar Scams, Crashes & Crises, How They Got Rich y Penny's Playbook (lecciones prácticas; más adelante, Shorts). **No consta cuáles existen hoy en Studio ni qué vídeo está en cuál**; ver sección 19.
+Listas públicas del canal a **27 oct 2026** (comprobadas en la página pública):
+
+| Lista | Vídeos | Último añadido |
+|---|---|---|
+| **Money Stories Right Now** (temas actuales: Top 5 CEOs, Lehman, GameStop, Wells Fargo, LTCM; SVB cuando salga) | 6 | LTCM |
+| **Billion-Dollar Scams** (estafas; la planeada para los vídeos 5–8) | 7 | Archegos |
+| **Crashes & Crises** | 1 | Enron |
+
+- Las listas «How They Got Rich» y «Penny's Playbook» del kit original **no aparecen** en la pestaña pública.
+- Hay 14 pertenencias para 13 vídeos, así que algún vídeo está en dos listas (decisión del 3 oct: Wirecard y Theranos entran también en «Money Stories Right Now», sin rehacerlos). **Qué vídeo está exactamente en cuál no se ve desde fuera**: se comprueba en Studio → Contenido → Listas de reproducción.
+- Criterio seguido hasta ahora: los vídeos de producción 5–8 se asignaron a «Billion-Dollar Scams» y del 10 en adelante a «Money Stories Right Now».
 
 ## 16. Ajustes de subida a YouTube
 
@@ -400,7 +409,7 @@ Cada vídeo entregado lleva su archivo `Penny_NN_<Caso>_YOUTUBE.md` (modelo: el 
 
 - **Publicados 13 vídeos** (Jho Low, Enron, Madoff, FTX, Theranos, Wirecard, Terra Luna, Archegos, Top 5 CEOs, Lehman, GameStop, Wells Fargo, LTCM). Catálogo completo en el Anexo C.
 - **SVB** (producción 16, 15:37) está producido y auditado, **sin publicar**.
-- **Cifras públicas a 25 oct:** 309 visitas en 12 vídeos y 3 suscriptores (Jho Low 103, Madoff 49, Enron 47, Wirecard 41, GameStop 23, el resto de 3 a 10). Con cifras tan pequeñas no se puede concluir qué título o miniatura funciona mejor. Impresiones, clics, fuentes de tráfico y retención solo se ven en Studio o con el canal reconectado en Nexlev.
+- **Cifras públicas a 25 oct** (a 27 oct la página pública muestra 314 visitas y 4 suscriptores): 309 visitas en 12 vídeos y 3 suscriptores (Jho Low 103, Madoff 49, Enron 47, Wirecard 41, GameStop 23, el resto de 3 a 10). Con cifras tan pequeñas no se puede concluir qué título o miniatura funciona mejor. Impresiones, clics, fuentes de tráfico y retención solo se ven en Studio o con el canal reconectado en Nexlev.
 - **Pendiente de Daihana:** subir y programar SVB; aprobar o descartar los guiones 17–19 antes de gastar créditos; decidir la cola (First Brands, Burbujas e IA o sustitutos); comprobar el resultado de las pruebas A/B de FTX, Theranos y Wirecard (si no hay ganador, poner la versión con «(Explained Simply)»); fijar comentarios cuando YouTube termine la verificación de la cuenta.
 - **Pendiente mío:** la comprobación de Form PF para LTCM (vencida); lista «qué volver a mirar» de SVB; la corrección de la cuenta de monedas del plano 22 de SVB queda a decisión de Daihana.
 
@@ -408,10 +417,10 @@ Cada vídeo entregado lleva su archivo `Penny_NN_<Caso>_YOUTUBE.md` (modelo: el 
 
 Cosas que encontré al reunir el manual y que conviene revisar o confirmar:
 
-1. **El banner dice «Big money stories, explained like you're 6»**, y la descripción del canal del kit dice «explain them like you're six», «New story every week» y lista «explained like you're 6» entre las palabras clave. Desde el 3 oct la identidad es «Explained Simply» y el calendario es domingo/martes/jueves. No puedo ver qué hay hoy en Studio: **conviene actualizar banner, descripción y palabras clave.**
+1. **Banner, descripción y palabras clave siguen con «like you're 6» (comprobado el 27 oct en la página pública).** El banner dice «Big money stories, explained like you're 6»; la descripción dice «explain them like you're six», «New story every week» y «Dialogue scenes are dramatizations»; las palabras clave incluyen «explained like you're 6». Desde el 3 oct la identidad es «Explained Simply» y el calendario es domingo/martes/jueves. **Ya están preparados el banner nuevo (`penny_banner_v2.jpg`) y los textos de descripción y palabras clave** (archivo `TEXTOS-STUDIO-CANAL.txt` y `claude/KIT-YOUTUBE-STUDIO.md`); falta que se apliquen en Studio (Personalización → Marca / Información básica; Configuración → Canal → Información básica).
 2. El kit del 25 sep dice «un vídeo día por medio» y «marcar Sí en contenido alterado si hay voces de IA»: ambas están **sustituidas** (domingo/martes/jueves; «Uso de IA» = No desde el 12 oct).
 3. **Los vídeos 1–7 mantienen «like you're six» en la voz grabada** (cambiarlo exigiría regenerar audio); solo se pueden cambiar títulos y descripciones.
-4. **Handle** y **listas de reproducción** reales en Studio: no consta cuál es el handle definitivo, qué listas existen ni qué vídeo está en cada una.
+4. **Handle y listas:** el handle es @PennyDropsTV y las listas públicas son tres (sección 15). Sigue sin verse qué vídeo está en cuál; solo se comprueba dentro de Studio.
 5. **Comentarios fijados:** pendientes de la verificación de la cuenta de YouTube (estado a 12–17 oct; no he vuelto a comprobarlo).
 6. **Monetización:** el kit recomienda anuncios mid-roll desde 8 min, pero no consta en mis fuentes si el canal ya está monetizado.
 7. **Scripts de montaje** (`plan.py`, `build.py`, `render2.py`, `falign.py`): `falign.py` está completo en `HERRAMIENTA-ALINEADOR-FORZADO.md`; los otros viven en las carpetas de trabajo de cada sesión y **no aparecen entre los documentos del Proyecto**. La base de Remotion es el único montaje portable (`penny-drops-remotion.zip`), y no está guardada en el Proyecto.
